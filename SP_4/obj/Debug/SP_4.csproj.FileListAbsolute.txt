@@ -1,0 +1,10 @@
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\bin\Debug\SP_4.exe.config
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\bin\Debug\SP_4.exe
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\bin\Debug\SP_4.pdb
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.csprojAssemblyReference.cache
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.Form1.resources
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.Properties.Resources.resources
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.csproj.GenerateResource.cache
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.csproj.CoreCompileInputs.cache
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.exe
+D:\999\sys_prog\4\SP_4\SP_4\SP_4\obj\Debug\SP_4.pdb
